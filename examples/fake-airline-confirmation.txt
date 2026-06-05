@@ -1,0 +1,26 @@
+FAKE EXAMPLE — DO NOT USE REAL TRAVEL DATA IN PUBLIC EXAMPLES
+
+Subject: Air Canada - 31 Jul 2026: Los Angeles - Toronto (Booking reference: ABC123)
+
+Booking reference: ABC123
+Issued: 04 Jun 2026
+Passenger: Example Traveler
+Ticket number: 0001112223334
+
+Friday, July 31, 2026 — Business Class Standard
+
+Air Canada AC100 — LAX to ORD
+Depart: Los Angeles International Airport (LAX), Terminal 7, 12:15 AM Pacific
+Arrive: O'Hare International Airport (ORD), Terminal 1, 6:30 AM Central
+Operated by: Example Partner Airline
+Duration: 4h 15m
+Seat: 3F
+
+Air Canada AC200 — ORD to YYZ
+Depart: O'Hare International Airport (ORD), Terminal 1, 7:10 AM Central
+Arrive: Toronto Pearson International Airport (YYZ), Terminal 1, 9:55 AM Eastern
+Operated by: Example Partner Airline
+Duration: 1h 45m
+Seat: 4A
+
+Baggage: 1st and 2nd checked bags complimentary.
