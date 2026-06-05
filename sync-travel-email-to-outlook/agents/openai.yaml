@@ -1,0 +1,3 @@
+display_name: Travel Gmail to Outlook
+short_description: Sync Gmail trips to Outlook.
+default_prompt: Find travel confirmation emails, extract the trip details, and add accurate hotel and flight entries to Outlook Calendar.
