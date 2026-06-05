@@ -1,0 +1,16 @@
+FAKE EXAMPLE — DO NOT USE REAL TRAVEL DATA IN PUBLIC EXAMPLES
+
+Subject: Reservation Details for Your Upcoming Stay at Hyatt House Sample Airport
+
+Your stay is confirmed at Hyatt House Sample Airport.
+
+Confirmation #: H0T3L12345
+Guest Name: Example Traveler
+Check-in: Friday, 31-Jul-2026 at 3:00 PM
+Check-out: Friday, 07-Aug-2026 at 11:00 AM
+Room type: 1 Bedroom King Suite with Sofabed and Full Kitchen
+Address: 100 Example Drive, Sample City, ON A1A 1A1
+Phone: +1 555-010-2026
+Rate type: Member Advance Purchase
+Cancellation policy: Cancel by 11:59 PM hotel time one day before arrival.
+Amenities: Free hot breakfast and Wi-Fi.
