@@ -1,0 +1,19 @@
+# Private data that should not be committed
+*.eml
+*.ics
+*.mbox
+*.html
+*.log
+*.trace
+*.har
+screenshots/
+exports/
+downloads/
+
+# Secrets and local config
+.env
+.env.*
+*.key
+*.pem
+*.p12
+.DS_Store
